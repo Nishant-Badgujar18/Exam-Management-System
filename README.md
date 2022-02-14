@@ -10,7 +10,7 @@ This is a **Web Based Application** Examination Management System using frontend
     $ git clone https://github.com/Nishant-Badgujar18/Exam-Management-System.git
     ```
 
-# Brief overview of the technology
+# Technology Used:
 
 * Front end: HTML, CSS, JavaScript
   * **HTML:** HTML is used to create and save web document. E.g. Notepad/Notepad++
