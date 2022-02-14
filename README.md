@@ -16,9 +16,9 @@ This is a **Web Based Application** Examination Management System using frontend
    * Import database project.sql from downloaded folder (inside database).
 4. Open Your browser put inside "http://localhost/Online examination system/"
 
-# Admin Login Details
-* **Login Id:** admin@admin.com
-* **Password:** admin
+* Admin Login Details
+  * **Login Id:** admin@admin.com
+  * **Password:** admin
 
 # Technology Used:
 
