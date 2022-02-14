@@ -9,6 +9,13 @@ This is a **Web Based Application** Examination Management System using frontend
     ```makefile
     $ git clone https://github.com/Nishant-Badgujar18/Exam-Management-System.git
     ```
+2. Put this file inside "c:/xampp/htdocs/".
+3. Database Configuration
+   * Open phpmyadmin.
+   * Create Database named project.
+   * Import database project.sql from downloaded folder (inside database).
+4. Open Your browser put inside "http://localhost/Online examination system/"
+
 
 # Technology Used:
 
