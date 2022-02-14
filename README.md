@@ -44,3 +44,9 @@ This is a **Web Based Application** Examination Management System using frontend
 * Could Update Profile
 * Log out after the over.
 * Admin Panel
+
+# Authors
+
+* **Kalpesh Ahire (111903038)** 
+* **Nishant Badgujar (111903053)**
+
